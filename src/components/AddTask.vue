@@ -3,7 +3,7 @@
         <div class="taskContainer">
             <input type="text" v-model="taskName">
             <div class="addIcon">
-                <button>-</button>
+                <button>+</button>
             </div>
         </div>
     </form>
